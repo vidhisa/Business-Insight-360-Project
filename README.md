@@ -19,3 +19,5 @@ Detailed implementation :
 
  Duration - 4 Months.
 
+ Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=c80607eb-6fc6-4396-9999-d80f0737cf71&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
+
